@@ -73,7 +73,7 @@ def shorten():
     if not original.startswith('http://') and not original.startswith('https://'):
         return 'url needs http:// or https://', 400
 
-    # generate code, check for collision (rare but just in case)
+    # generate code, check for collision
     code = generate_code()
     while code in urls:
         code = generate_code()
