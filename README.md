@@ -1,5 +1,5 @@
 # ScreenShot
-<img width="845" height="744" alt="screenshot-2025-12-31_21-32-17" src="https://github.com/user-attachments/assets/8ace1b54-272e-448d-a065-8bede94f5bae" />
+<img width="839" height="378" alt="image" src="https://github.com/user-attachments/assets/4b95b4a2-15cd-403e-bd54-1dc360f93903" />
 
 
 # URL Shortener (Flask)
@@ -38,10 +38,10 @@ Note: Since storage is in-memory, all links reset when the server restarts.
 
 ---
 
-## How to Run Locally
+## How to Run Locally(linux) never tied on windows sry
 
 ```bash
 # create virtual environment
-python3 -m venv venv
+python3 -m venv venv //One-Time setup
 source venv/bin/activate.fish
 app.py
