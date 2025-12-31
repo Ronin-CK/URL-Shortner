@@ -1,3 +1,6 @@
+# ScreenShot
+<img width="952" height="1016" alt="image" src="https://github.com/user-attachments/assets/17ed0a02-e55e-4821-a0d0-03f69b7c5d07" />
+
 # URL Shortener (Flask)
 
 A simple URL shortener built with Python and Flask.  
