@@ -1,5 +1,6 @@
 # ScreenShot
-<img width="952" height="1016" alt="image" src="https://github.com/user-attachments/assets/17ed0a02-e55e-4821-a0d0-03f69b7c5d07" />
+<img width="845" height="744" alt="screenshot-2025-12-31_21-32-17" src="https://github.com/user-attachments/assets/8ace1b54-272e-448d-a065-8bede94f5bae" />
+
 
 # URL Shortener (Flask)
 
