@@ -39,4 +39,5 @@ Note: Since storage is in-memory, all links reset when the server restarts.
 ```bash
 # create virtual environment
 python3 -m venv venv
-so
+source venv/bin/activate.fish
+app.py
